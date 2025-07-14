@@ -4,3 +4,4 @@
 hs_err_pid*
 .bsp/
 .scala-build/
+.metals/
